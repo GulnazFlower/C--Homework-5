@@ -14,12 +14,12 @@ int GetSum (int[] array)
     return sum;
 }
 
-int[] GenerateRandomArray(int size)
+int[] GenerateRandomArray(int size, int min, int max)
 {
     int[] array = new int[size];
     for(int i = 0; i < size; i++)
     {
-         array[i] = new Random().Next();
+         array[i] = new Random().Next(min, max);
     }
     return array;
 }
@@ -31,5 +31,7 @@ int GetInput(string text)
 }
 
 int size = GetInput("Введите количество элементов массива: ");
-int[] array = GenerateRandomArray(size);
+int min = GetInput("Введите минимальное число массива: ");
+int max = GetInput("Введите максимальное число массива: ");
+int[] array = GenerateRandomArray(size, min, max);
 Console.WriteLine($"[{String.Join(",", array)}] -> {GetSum(array)}");
