@@ -1,0 +1,15 @@
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 5/Ex.34/obj/Debug/net6.0/Ex.34.csproj.AssemblyReference.cache
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 5/Ex.34/obj/Debug/net6.0/Ex.34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 5/Ex.34/obj/Debug/net6.0/Ex.34.AssemblyInfoInputs.cache
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 5/Ex.34/obj/Debug/net6.0/Ex.34.AssemblyInfo.cs
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 5/Ex.34/obj/Debug/net6.0/Ex.34.csproj.CoreCompileInputs.cache
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 5/Ex.34/bin/Debug/net6.0/Ex.34
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 5/Ex.34/bin/Debug/net6.0/Ex.34.deps.json
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 5/Ex.34/bin/Debug/net6.0/Ex.34.runtimeconfig.json
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 5/Ex.34/bin/Debug/net6.0/Ex.34.dll
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 5/Ex.34/bin/Debug/net6.0/Ex.34.pdb
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 5/Ex.34/obj/Debug/net6.0/Ex.34.dll
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 5/Ex.34/obj/Debug/net6.0/refint/Ex.34.dll
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 5/Ex.34/obj/Debug/net6.0/Ex.34.pdb
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 5/Ex.34/obj/Debug/net6.0/Ex.34.genruntimeconfig.cache
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 5/Ex.34/obj/Debug/net6.0/ref/Ex.34.dll
