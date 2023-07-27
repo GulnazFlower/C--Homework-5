@@ -6,7 +6,6 @@
 int GetSum (int[] array)
 {
     int sum = 0;
-    int i = 0;
     for (i = 1; i < array.Length; i = i + 2)
     {
         sum = sum + array[i];
@@ -31,7 +30,7 @@ int GetInput(string text)
 }
 
 int size = GetInput("Введите количество элементов массива: ");
-int min = GetInput("Введите минимальное число массива: ");
-int max = GetInput("Введите максимальное число массива: ");
+int min = GetInput("Введите минимальное число диапазона: ");
+int max = GetInput("Введите максимальное число диапазона: ");
 int[] array = GenerateRandomArray(size, min, max);
 Console.WriteLine($"[{String.Join(",", array)}] -> {GetSum(array)}");
